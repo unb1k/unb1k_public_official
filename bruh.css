@@ -1,0 +1,109 @@
+body{
+    background-color: cornsilk;
+    font-size: larger;
+    font-variant: unset;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+header{
+    background-color: #f5e6bd;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+main{
+    background-color: #f5e6bd;
+    border-radius: 30px;
+    padding-right: 50px;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: last baseline;
+    flex-wrap: wrap;
+}
+a{
+    color: #905037;
+    text-decoration: none;
+    transition: all 0.7s ease;
+    margin-right: 20px;
+}
+a:hover {
+    color: #ebd61b;
+    font-weight: 50px;
+    letter-spacing: 0.4px;
+}
+#me{
+    color: #905037;
+    text-align: center;
+}
+#meme{
+    color: #905037;
+}
+div{
+    font-weight: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: #bd7457;
+    font-size: 30px;
+    padding-left: 50px;
+    text-indent: 62px;
+    padding-right: 50px;
+    font-family: 'biba', sans-serif;
+}
+h3{
+    font-size: 50px;
+}
+img{
+    border-radius: 20px !important;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+footer{
+    background-color: #f5e6bd;
+    border-radius: 30px;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: #905037;
+}
+#glasses{   
+    margin-left: 555px;
+}
+.box{
+    width: 551px;
+    background-color: #f5d783;
+    padding: 20px;
+    border-radius: 15px;
+    border: 3px solid rgb(250, 216, 62);
+}
+#asas{
+    font-size: 40px;
+}
+#lala{
+    margin-left: 280px;
+}
+#poska{
+    text-align: left;
+    padding-left: 150px;
+}
+.polla{
+    display: flex;
+    font-family: 'biba', sans-serif;
+}
+#polla{
+    text-align: left !important;
+    padding-left: 150px; 
+    font-family: 'biba', sans-serif;
+}
+@font-face {
+    font-family: 'biba';
+    src: url(C:\Users\uigur\OneDrive\Desktop\tututututu\fonts) format('ttf');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
